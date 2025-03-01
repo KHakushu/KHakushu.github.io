@@ -12334,6 +12334,6 @@ fieldset[disabled] article.article .article-more.is-inverted:before:before {
   border-radius: 0em;
 }
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 7px;
+  width: 0px;
+  height: 0px;
 }
